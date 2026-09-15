@@ -1,0 +1,1 @@
+# dados_bi_compra_arquitetura_medalhao
